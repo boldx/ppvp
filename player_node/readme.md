@@ -1,7 +1,8 @@
 Arduino Mini Pro
 NRF24
 
-|| Arduino pin || Usage ||
+| Arduino pin | Usage |
+| ----------- | ----- |
 | D9 | NRF CE |
 | D10 | NRF CS |
 | D2 | Left arm |
